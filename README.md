@@ -1,5 +1,12 @@
 # responsive-about
 
+## Desktop View
+
+![alt text](https://github.com/khairul-abdi/vue-responsive-about-page/blob/master/src/assets/img-screenshot/desktop.png)
+
+## Mobile View
+![alt text](https://github.com/khairul-abdi/vue-responsive-about-page/blob/master/src/assets/img-screenshot/mobile.png)
+
 ## Project setup
 ```
 npm install
